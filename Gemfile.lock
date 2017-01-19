@@ -581,7 +581,7 @@ GEM
     uuid (2.3.7)
       macaddr (~> 1.0)
     uuidtools (2.1.5)
-    vcr (2.9.2)
+    vcr (3.0.3)
     warden (1.2.6)
       rack (>= 1.0)
     web-console (3.3.1)
